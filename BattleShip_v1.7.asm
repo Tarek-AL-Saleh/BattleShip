@@ -1,3 +1,4 @@
+#This Game is Done by Tarek AL-Saleh, Ayman Kacan and Elias Khoueiry.
 .eqv SLEEP 100
 .eqv SLEEP1 500
 .data
